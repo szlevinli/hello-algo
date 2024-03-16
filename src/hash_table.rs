@@ -1,1 +1,1 @@
-pub mod separate_chaining;
+pub mod hash_collision;
